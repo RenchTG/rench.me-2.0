@@ -1,7 +1,7 @@
 ---
 name: 'Philip Dobranowski'
 pronouns: 'he/him'
-avatar: '/static/face.jpg'
+avatar: '/static/pfp-dark.png'
 bio: "I'm a cybersecurity enthusiast, CTF player, and software developer. Feel free to check out my about page or contact me at the links below!"
 linkedin: 'https://linkedin.com/in/philip-dobranowski'
 github: 'https://github.com/RenchTG'
