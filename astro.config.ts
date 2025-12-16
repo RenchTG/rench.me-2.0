@@ -20,7 +20,7 @@ import icon from 'astro-icon'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://rench-me-new.vercel.app',
+  site: 'https://rench.me',
   integrations: [
     tailwind({
       applyBaseStyles: false,
